@@ -1,0 +1,23 @@
+no arquivo index.html
+digital ! e esperar o vscode sugerir as opções, selecione a primeira opção e aperta enter
+
+
+Salvar o arquivo editado
+Ctrl + S
+
+
+Extensão Live Server
+Procurar e instalar na aba de extensões do vscode
+ - para rodar o projeto com live server: clicar com o botão direito no mouse
+e selecione Open with live server
+
+com o ponteiro na linha aperta Tab para indentar o código
+Shift + tab = volta um espaço
+
+Formatar código = Shift + Alt + F
+
+Alt + seta = anda com a linha selecionada
+
+Shift + Alt + Seta para baixo = copia e cola a linha selecionado para uma nova linha embaixo
+
+Ctrl + ; = comenta a linha selecionada
